@@ -26,7 +26,10 @@ const nextConfig = {
 
         return config;
     },
-    
+    reactStrictMode: true,
+  env: {
+    BASE_URL: process.env.BASE_URL,
+  }
 };
 
 export default nextConfig;
