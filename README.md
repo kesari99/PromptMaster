@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PromptMaster - A Next.js Project
 
-## Getting Started
+**PromptMaster** is a powerful application built with **Next.js** that allows users to explore and interact with various prompts. It leverages the latest technologies to offer a seamless user experience. The app is designed to be responsive and efficient, optimized for both desktop and mobile devices.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎥 Demo Video
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[![Watch the demo](https://video.gumlet.io/67404c9279da703e9ae5b2ff/6740504d70c9e21064f22679/thumbnail-1-0.png?v=1732268156317)](https://gumlet.tv/watch/6740504d70c9e21064f22679)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Click the image above to watch the demo video showcasing the features and functionality of the application.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 🛠 Features
 
-To learn more about Next.js, take a look at the following resources:
+- **Interactive Prompt Exploration**: Browse, filter, and interact with various prompts.
+- **Responsive Design**: Optimized for both desktop and mobile, ensuring a seamless user experience across devices.
+- **Modern UI**: Built with **Tailwind CSS** for clean and efficient styling.
+- **Dynamic Data Handling**: Fetch and display prompt data dynamically using **Next.js** features.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚀 Getting Started
 
-## Deploy on Vercel
+To get a local copy of the project running, follow these steps:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Prerequisites
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Ensure you have the following installed:
+
+- **Node.js** (v14 or higher)
+- **npm** or **yarn**
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/kesari99/PromptMaster.git
+   cd PromptMaster
